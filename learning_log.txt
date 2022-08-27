@@ -1,0 +1,21 @@
+YEAR: 2022
+==========
+MONTH: AUGUST
+~~~~~~~~~~~~~
+21 - Started Codecademy Course: [Beta] Machine Learning/AI Engineering Foundations
+     + Completed sections 1 (Welcome) & 2.1 (Introduction to Data)
+22 - Codecademy Course: Machine Learning/AI Engineering Foundations
+     + Seciton 2.2 (Thinking about Data)
+23 - Codecademy Course: Machine Learning/AI Engineering Foundations
+     + Seciton 2.3 (Visualizing Data)
+24 - Codecademy Course: Machine Learning/AI Engineering Foundations
+     + Seciton 2.4 (Analyzing Data)
+25 - Codecademy Course: Machine Learning/AI Engineering Foundations
+     + Start new chaper: Python Fundamentals for ML/AI Engineers (Part I)
+     + Seciton 3.1
+26 - Codecademy Course: Machine Learning/AI Engineering Foundations
+     + Seciton 3.2
+27 - Created this file
+   - Codecademy Course: Machine Learning/AI Engineering Foundations
+     + Seciton 3.3
+   
