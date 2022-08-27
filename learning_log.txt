@@ -10,12 +10,12 @@ MONTH: AUGUST
      + Seciton 2.3 (Visualizing Data)
 24 - Codecademy Course: Machine Learning/AI Engineering Foundations
      + Seciton 2.4 (Analyzing Data)
-25 - Codecademy Course: Machine Learning/AI Engineering Foundations
+25 - Visited Stellenbosch University Computer Science Career fair
+   - Codecademy Course: Machine Learning/AI Engineering Foundations
      + Start new chaper: Python Fundamentals for ML/AI Engineers (Part I)
-     + Seciton 3.1
+     + Seciton 3.1 (Welcome) & 3.2 (Python Syntax and Variable Types)
 26 - Codecademy Course: Machine Learning/AI Engineering Foundations
-     + Seciton 3.2
+     + Seciton 3.2 (Python Functions)
 27 - Created this file
    - Codecademy Course: Machine Learning/AI Engineering Foundations
-     + Seciton 3.3
-   
+     + Seciton 3.3 (Python Control Flow)
