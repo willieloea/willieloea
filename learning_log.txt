@@ -20,3 +20,5 @@ MONTH: AUGUST
 27 - Created this file
    - Codecademy Course: Machine Learning/AI Engineering Foundations
      + Seciton 3.3 (Python Control Flow)
+28 - Codecademy Course: Machine Learning/AI Engineering Foundations
+     + Seciton 3.4 (Python Lists)
