@@ -22,3 +22,5 @@ MONTH: AUGUST
      + Seciton 3.3 (Python Control Flow)
 28 - Codecademy Course: Machine Learning/AI Engineering Foundations
      + Seciton 3.4 (Python Lists)
+   - Alarm_Grouper
+     + Started a new repository: Alarm_Grouper for an alarm app I want to build for myself
