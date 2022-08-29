@@ -26,3 +26,5 @@ MONTH: AUGUST
      + Started a new repository: Alarm_Grouper for an alarm app I want to build for myself
 29 - Sleep_Splitter
      + Started a new repository: Sleep_Splitter for a sleep schedule program I want to write
+   - Codecademy Course: Machine Learning/AI Engineering Foundations
+     + Seciton 3.5 (Python Loops)
