@@ -28,3 +28,6 @@ MONTH: AUGUST
      + Started a new repository: Sleep_Splitter for a sleep schedule program I want to write
    - Codecademy Course: Machine Learning/AI Engineering Foundations
      + Seciton 3.5 (Python Loops)
+30 - Codecademy Course: Machine Learning/AI Engineering Foundations
+     + Seciton 3.6 (Getting Started Off Platform [Jupyter Notebooks])
+     + Section 3.7 (Frida Kahlo Cumulative Project)
