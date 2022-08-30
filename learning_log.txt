@@ -31,3 +31,5 @@ MONTH: AUGUST
 30 - Codecademy Course: Machine Learning/AI Engineering Foundations
      + Seciton 3.6 (Getting Started Off Platform [Jupyter Notebooks])
      + Section 3.7 (Frida Kahlo Cumulative Project)
+   - Git
+     + Learned how to sign out of Uni git account and into personal account via the terminal, and vice versa.
