@@ -33,3 +33,7 @@ MONTH: AUGUST
      + Section 3.7 (Frida Kahlo Cumulative Project)
    - Git
      + Learned how to sign out of Uni git account and into personal account via the terminal, and vice versa.
+31 - Codecademy Course: Machine Learning/AI Engineering Foundations
+     + Start new chaper: Python Fundamentals for ML/AI Engineers (Part II)
+     + Seciton 4.1 (Welcome) & 4.2 (Data Aquisition)
+
