@@ -1,6 +1,7 @@
 ==========
 YEAR: 2022
 ==========
+~~~~~~~~~~~~~
 MONTH: AUGUST
 ~~~~~~~~~~~~~
 21 - Started Codecademy Course: [Beta] Machine Learning/AI Engineering Foundations
@@ -36,4 +37,12 @@ MONTH: AUGUST
 31 - Codecademy Course: Machine Learning/AI Engineering Foundations
      + Start new chaper: Python Fundamentals for ML/AI Engineers (Part II)
      + Seciton 4.1 (Welcome) & 4.2 (Data Aquisition)
+
+
+~~~~~~~~~~~~~~~~
+MONTH: SEPTEMBER
+~~~~~~~~~~~~~~~~
+1  - Codecademy Course: Machine Learning/AI Engineering Foundations
+     + Started Seciton 4.3 (Python Strings)
+
 
