@@ -1,49 +1,78 @@
-==========
-YEAR: 2022
-==========
-~~~~~~~~~~~~~
-MONTH: AUGUST
-~~~~~~~~~~~~~
-21 - Started Codecademy Course: [Beta] Machine Learning/AI Engineering Foundations
-     + Completed sections 1 (Welcome) & 2.1 (Introduction to Data)
-22 - Codecademy Course: Machine Learning/AI Engineering Foundations
-     + Seciton 2.2 (Thinking about Data)
-23 - Codecademy Course: Machine Learning/AI Engineering Foundations
-     + Seciton 2.3 (Visualizing Data)
-24 - Codecademy Course: Machine Learning/AI Engineering Foundations
-     + Seciton 2.4 (Analyzing Data)
-25 - Visited Stellenbosch University Computer Science Career fair
-   - Codecademy Course: Machine Learning/AI Engineering Foundations
-     + Start new chaper: Python Fundamentals for ML/AI Engineers (Part I)
-     + Seciton 3.1 (Welcome) & 3.2 (Python Syntax and Variable Types)
-26 - Codecademy Course: Machine Learning/AI Engineering Foundations
-     + Seciton 3.2 (Python Functions)
-27 - Created this file
-   - Codecademy Course: Machine Learning/AI Engineering Foundations
-     + Seciton 3.3 (Python Control Flow)
-28 - Codecademy Course: Machine Learning/AI Engineering Foundations
-     + Seciton 3.4 (Python Lists)
-   - Alarm_Grouper
-     + Started a new repository: Alarm_Grouper for an alarm app I want to build for myself
-29 - Sleep_Splitter
-     + Started a new repository: Sleep_Splitter for a sleep schedule program I want to write
-   - Codecademy Course: Machine Learning/AI Engineering Foundations
-     + Seciton 3.5 (Python Loops)
+30 - 
+29 - 
+28 - 
+27 - 
+26 - 
+25 - 
+24 - 
+23 - 
+22 - 
+21 - 
+20 - 
+19 - 
+18 - 
+17 - 
+16 - 
+15 - 
+14 - 
+13 - 
+12 - 
+11 - 
+10 - 
+ 9 - 
+ 8 - 
+ 7 - 
+ 6 - 
+ 5 - 
+ 4 - 
+ 3 - 
+ 2 - Codecademy Course: Machine Learning/AI Engineering Foundations
+    + Finished Seciton 4.3 (Python Strings)
+ 1 - Codecademy Course: Machine Learning/AI Engineering Foundations
+    + Started Seciton 4.3 (Python Strings)
+
+~~~~~~~~~~~~~~~~
+MONTH: SEPTEMBER
+~~~~~~~~~~~~~~~~
+
+31 - Codecademy Course: Machine Learning/AI Engineering Foundations
+     + Start new chaper: Python Fundamentals for ML/AI Engineers (Part II)
+     + Seciton 4.1 (Welcome) & 4.2 (Data Aquisition)
 30 - Codecademy Course: Machine Learning/AI Engineering Foundations
      + Seciton 3.6 (Getting Started Off Platform [Jupyter Notebooks])
      + Section 3.7 (Frida Kahlo Cumulative Project)
    - Git
      + Learned how to sign out of Uni git account and into personal account via the terminal, and vice versa.
-31 - Codecademy Course: Machine Learning/AI Engineering Foundations
-     + Start new chaper: Python Fundamentals for ML/AI Engineers (Part II)
-     + Seciton 4.1 (Welcome) & 4.2 (Data Aquisition)
+29 - Sleep_Splitter
+     + Started a new repository: Sleep_Splitter for a sleep schedule program I want to write
+   - Codecademy Course: Machine Learning/AI Engineering Foundations
+     + Seciton 3.5 (Python Loops)
+28 - Codecademy Course: Machine Learning/AI Engineering Foundations
+     + Seciton 3.4 (Python Lists)
+   - Alarm_Grouper
+     + Started a new repository: Alarm_Grouper for an alarm app I want to build for myself
+27 - Created this file
+   - Codecademy Course: Machine Learning/AI Engineering Foundations
+     + Seciton 3.3 (Python Control Flow)
+26 - Codecademy Course: Machine Learning/AI Engineering Foundations
+     + Seciton 3.2 (Python Functions)
+25 - Visited Stellenbosch University Computer Science Career fair
+   - Codecademy Course: Machine Learning/AI Engineering Foundations
+     + Start new chaper: Python Fundamentals for ML/AI Engineers (Part I)
+     + Seciton 3.1 (Welcome) & 3.2 (Python Syntax and Variable Types)
+24 - Codecademy Course: Machine Learning/AI Engineering Foundations
+     + Seciton 2.4 (Analyzing Data)
+23 - Codecademy Course: Machine Learning/AI Engineering Foundations
+     + Seciton 2.3 (Visualizing Data)
+22 - Codecademy Course: Machine Learning/AI Engineering Foundations
+     + Seciton 2.2 (Thinking about Data)
+21 - Started Codecademy Course: [Beta] Machine Learning/AI Engineering Foundations
+     + Completed sections 1 (Welcome) & 2.1 (Introduction to Data)
 
+~~~~~~~~~~~~~
+MONTH: AUGUST
+~~~~~~~~~~~~~
 
-~~~~~~~~~~~~~~~~
-MONTH: SEPTEMBER
-~~~~~~~~~~~~~~~~
-1 - Codecademy Course: Machine Learning/AI Engineering Foundations
-    + Started Seciton 4.3 (Python Strings)
-2 - Codecademy Course: Machine Learning/AI Engineering Foundations
-    + Finished Seciton 4.3 (Python Strings)
-
+==========
+YEAR: 2022
+==========
