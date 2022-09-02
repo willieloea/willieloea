@@ -42,7 +42,8 @@ MONTH: AUGUST
 ~~~~~~~~~~~~~~~~
 MONTH: SEPTEMBER
 ~~~~~~~~~~~~~~~~
-1  - Codecademy Course: Machine Learning/AI Engineering Foundations
-     + Started Seciton 4.3 (Python Strings)
-
+1 - Codecademy Course: Machine Learning/AI Engineering Foundations
+    + Started Seciton 4.3 (Python Strings)
+2 - Codecademy Course: Machine Learning/AI Engineering Foundations
+    + Finished Seciton 4.3 (Python Strings)
 
