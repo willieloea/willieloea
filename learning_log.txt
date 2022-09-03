@@ -25,7 +25,10 @@
  6 - 
  5 - 
  4 - 
- 3 - 
+ 3 - Sleep_Splitter
+    + Started work on the logic and datastructures of Sleep_Splitter
+   - Alarm_Grouper
+    + Learned how to make a frame appear on desktop
  2 - Codecademy Course: Machine Learning/AI Engineering Foundations
     + Finished Seciton 4.3 (Python Strings)
  1 - Codecademy Course: Machine Learning/AI Engineering Foundations
