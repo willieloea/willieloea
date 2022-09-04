@@ -24,7 +24,9 @@
  7 - 
  6 - 
  5 - 
- 4 - 
+ 4 - Codecademy Course: Machine Learning/AI Engineering Foundations
+    + Seciton 4.4 (Python Dictionaries)
+   - Worked on my Computer Science 244 Project
  3 - Sleep_Splitter
      + Started work on the logic and datastructures of Sleep_Splitter
    - Alarm_Grouper
