@@ -23,7 +23,8 @@
  8 - 
  7 - 
  6 - 
- 5 - 
+ 5 - Codecademy Course: Machine Learning/AI Engineering Foundations
+    + Seciton 4.5 (Python Files)
  4 - Codecademy Course: Machine Learning/AI Engineering Foundations
     + Seciton 4.4 (Python Dictionaries)
    - Worked on my Computer Science 244 Project
