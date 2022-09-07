@@ -22,6 +22,7 @@
  9 - 
  8 - 
  7 - Discovered termial aliasing on linux; added a few permanent aliases
+   - Worked on Computer Science project
  6 - **none**
  5 - Codecademy Course: Machine Learning/AI Engineering Foundations
     + Seciton 4.5 (Python Files)
