@@ -19,7 +19,9 @@
 12 - 
 11 - 
 10 - 
- 9 - 
+ 9 - Visited VASTech company in Stellenbosch (career day) 
+   - Attended Stellenbosch University 2022 Hackathon information session
+   - Worked on my Computer Science project
  8 - Worked on my Computer Science project
  7 - Discovered termial aliasing on linux; added a few permanent aliases
    - Worked on my Computer Science project
