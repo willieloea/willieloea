@@ -16,7 +16,8 @@
 15 - 
 14 - 
 13 - 
-12 - 
+12 - Codecademy Course: Machine Learning/AI Engineering Foundations
+    + Seciton 4.6 (Reggie's Linear Regression Cumulative Project)
 11 - Worked on my Computer Science project
 10 - Worked on my Computer Science project
  9 - Visited VASTech company in Stellenbosch (career day)
