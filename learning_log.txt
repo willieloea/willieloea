@@ -15,7 +15,9 @@
 16 - 
 15 - 
 14 - 
-13 - 
+13 - Codecademy Course: Machine Learning/AI Engineering Foundations
+    + Started Seciton 5 (Portfolio Project: U.S. Medical Insurance)
+   - Worked on my Computer Science project
 12 - Codecademy Course: Machine Learning/AI Engineering Foundations
     + Seciton 4.6 (Reggie's Linear Regression Cumulative Project)
 11 - Worked on my Computer Science project
