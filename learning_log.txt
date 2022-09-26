@@ -2,9 +2,9 @@
 29 - 
 28 - 
 27 - 
-26 - 
-25 - 
-24 - 
+26 - **none**
+25 - Worked on my Computer Science project
+24 - Worked on my Computer Science project
 23 - Worked on my Computer Science project
 22 - Worked on my Computer Science project
 21 - Worked on my Computer Science project
