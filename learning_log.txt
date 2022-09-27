@@ -1,8 +1,13 @@
 30 - 
 29 - 
 28 - 
-27 - 
-26 - **none**
+27 - CodeCademy command line course
+    + Command line wildcards
+    + Listing files by time modified
+    + cat command: outputs the contents of a file
+    + Recursive and forceful deletion of directories/files
+26 - Started CodeCademy course on the command line
+    + learned nothing new
 25 - Worked on my Computer Science project
 24 - Worked on my Computer Science project
 23 - Worked on my Computer Science project
