@@ -1,6 +1,10 @@
 30 - 
 29 - 
-28 - 
+28 - CodeCademy command line course
+    + Appending to files through redirection
+    + Piping
+    + grep
+    + sed command (stream editor [replacement])
 27 - CodeCademy command line course
     + Command line wildcards
     + Listing files by time modified
