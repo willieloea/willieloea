@@ -1,5 +1,6 @@
 30 - 
-29 - 
+29 - CodeCademy command line course
+    + nano editor
 28 - CodeCademy command line course
     + Appending to files through redirection
     + Piping
