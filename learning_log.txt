@@ -88,16 +88,17 @@ MONTH: NOVEMBER
 15 - 
 14 - 
 13 - 
-12 - 
-11 - 
-10 - 
- 9 - 
- 8 - 
- 7 - 
- 6 - 
- 5 - 
- 4 - 
- 3 - 
+12 - Codecademy: Learn Bash Scripting
+    + Started
+11 - *none*
+10 - *none*
+ 9 - *none*
+ 8 - *none*
+ 7 - *none*
+ 6 - *none*
+ 5 - *none*
+ 4 - *none*
+ 3 - *none*
  2 - Codecademy: Build Basic Android Apps with Java
     + Started
  1 - *none*
