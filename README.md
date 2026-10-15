@@ -1,3 +1,1 @@
-- Hi, I’m Willie Loftie-Eaton
-- I’m interested in Computer Science, Mathematics, guitar, running, and philosophy.
-- I’m currently studying BSc Hons Computer Science at the University of Stellenbosch. I'm learning Java, C, Python and ReactJS.
+Hi, I’m Willie Loftie-Eaton. I try to keep [my website](willieloea.com) up to date with what I'm doing.
